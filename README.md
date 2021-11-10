@@ -1,4 +1,4 @@
-My name is **Daniel Mendonça** and I'm a High School student in Portugal. [My Portfolio](https://danielmendonc.github.io/)
+My name is **Daniel Mendonça**, i'm a High School student in Portugal and this is [My Portfolio](https://danielmendonc.github.io/). <br>
 These are some of the technologies i use:
 
 #### Programming Languages
